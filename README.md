@@ -16,8 +16,13 @@ https://github.com/sakuranew/attention-pytorch
 在自己实现代码的过程中就理解了多头的概念，而曾经仅仅实现transformer的时候，对多头印象并不深刻，多头其实是一种优化概念，并没有严格的数学证明。而且，效果一般般，是基于自注意力机制提出来的提升。
 # kaggle比赛页面，开课吧
 https://www.kaggle.com/c/kkb-repl4nlp-assignment0/overview
-比赛这，尤为清华大神发布的代码，写的蛮有趣的。是个学习transformers框架的的好例子
+
+比赛页面，清华大神发布的代码，写的蛮有趣的。是个学习transformers框架的的好例子
 https://www.kaggle.com/barcarum/kkb-repl4nlp-a0-sbert-linear?scriptVersionId=52326354
+
+
 同时里面提供了torchtext直接调用模型的例子
 https://github.com/muralikrishnasn/semantic_similarity
+
+
 这里安利下开课吧，国内培训的结合工程学术最好的，贪心有点偏向理论，或者单单偏向工程。当然都是很好的培训课程，开课吧的课程真的是把理论跟实践结合的非常好的，但是这也不是没有坏处，导致的结果就是学起来非常耗时。每个知识点，学习来都很慢。
